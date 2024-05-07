@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\bin\Debug\netstandard2.0\LibreriaDeCompresion.deps.json
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\bin\Debug\netstandard2.0\LibreriaDeCompresion.dll
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\bin\Debug\netstandard2.0\LibreriaDeCompresion.pdb
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\obj\Debug\netstandard2.0\LibreriaDeCompresion.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\obj\Debug\netstandard2.0\LibreriaDeCompresion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\obj\Debug\netstandard2.0\LibreriaDeCompresion.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\obj\Debug\netstandard2.0\LibreriaDeCompresion.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\obj\Debug\netstandard2.0\LibreriaDeCompresion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\obj\Debug\netstandard2.0\LibreriaDeCompresion.dll
+C:\Users\DELL\source\repos\LibreriaDeCompresion\LibreriaDeCompresion\obj\Debug\netstandard2.0\LibreriaDeCompresion.pdb

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\LibreriaDeCompresion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1687142-20F8-4BF2-8CF5-4416E7AF14E3}|ProgramaCompresion\\ProgramaCompresion.csproj|c:\\users\\dell\\source\\repos\\libreriadecompresion\\programacompresion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1687142-20F8-4BF2-8CF5-4416E7AF14E3}|ProgramaCompresion\\ProgramaCompresion.csproj|solutionrelative:programacompresion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B4496-700A-4F6B-8506-D25E6B4EB1BF}|LibreriaDeCompresion\\LibreriaDeCompresion.csproj|c:\\users\\dell\\source\\repos\\libreriadecompresion\\libreriadecompresion\\comprimircarpetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B4496-700A-4F6B-8506-D25E6B4EB1BF}|LibreriaDeCompresion\\LibreriaDeCompresion.csproj|solutionrelative:libreriadecompresion\\comprimircarpetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComprimirCarpetas.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibreriaDeCompresion\\LibreriaDeCompresion\\ComprimirCarpetas.cs",
+              "RelativeDocumentMoniker": "LibreriaDeCompresion\\ComprimirCarpetas.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibreriaDeCompresion\\LibreriaDeCompresion\\ComprimirCarpetas.cs",
+              "RelativeToolTip": "LibreriaDeCompresion\\ComprimirCarpetas.cs",
+              "ViewState": "AQIAAEgAAAAAsP/////rv1cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:33:40.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LibreriaDeCompresion\\ProgramaCompresion\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramaCompresion\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LibreriaDeCompresion\\ProgramaCompresion\\Program.cs",
+              "RelativeToolTip": "ProgramaCompresion\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAmZmZmZkZwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:13:19.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
